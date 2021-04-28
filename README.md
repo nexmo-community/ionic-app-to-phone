@@ -25,7 +25,7 @@ Start the Ionic dev server:
 
 `ionic serve`
 
-After replacing the JWT in [`home.tsx`]() you can now make a call from the web.
+After replacing the JWT in [`home.tsx`](https://github.com/nexmo-community/ionic-app-to-phone/blob/2ba25e7d451f4412ddc90a8a6f85928bc3aef388/src/pages/Home.tsx#L13) you can now make a call from the web.
 
 ### iOS:
 
